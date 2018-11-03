@@ -1,1 +1,3 @@
-This is the repo for the first alpa blog app for the complete ruby on rails developer course.
+testing of code is getting push to git account or not.
+
+hope everthing is working fine.
